@@ -1,0 +1,15 @@
+{
+  "Api.Temeprature.Business.DTO, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\hamza.belyahiaoui\\Desktop\\ecole\\temperature\\Temperature\\Business\\Api.Temeprature.Business.DTO",
+  "Api.Temeprature.Business.Mapper, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\hamza.belyahiaoui\\Desktop\\ecole\\temperature\\Temperature\\Business\\Api.Temeprature.Business.Mapper",
+  "Api.Temeprature.Business.Service.Contract, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\hamza.belyahiaoui\\Desktop\\ecole\\temperature\\Temperature\\Business\\Api.Temeprature.Business.Service.Contract",
+  "Api.Temeprature.Business.Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\hamza.belyahiaoui\\Desktop\\ecole\\temperature\\Temperature\\Business\\Api.Temeprature.Business.Service",
+  "Api.Temeprature.IoC.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\hamza.belyahiaoui\\Desktop\\ecole\\temperature\\Temperature\\IoC\\Api.Temeprature.IoC.Application",
+  "Api.Temeprature.IoC.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\hamza.belyahiaoui\\Desktop\\ecole\\temperature\\Temperature\\IoC\\Api.Temeprature.IoC.Tests",
+  "Api.Temperature.Data.Context.Contract, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\hamza.belyahiaoui\\Desktop\\ecole\\temperature\\Temperature\\Data\\Api.Temperature.Data.Context.Contract",
+  "Api.Temperature.Data.Context, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\hamza.belyahiaoui\\Desktop\\ecole\\temperature\\Temperature\\Data\\Api.Temperature.Data.Context",
+  "Api.Temperature.Data.Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\hamza.belyahiaoui\\Desktop\\ecole\\temperature\\Temperature\\Data\\Api.Temperature.Data.Entity",
+  "Api.Temperature.Data.Repository.Contract, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\hamza.belyahiaoui\\Desktop\\ecole\\temperature\\Temperature\\Data\\Api.Temperature.Data.Repository.Contract",
+  "Api.Temperature.Data.Repository, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\hamza.belyahiaoui\\Desktop\\ecole\\temperature\\Temperature\\Data\\Api.Temperature.Data.Repository",
+  "Api.Temperature, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\hamza.belyahiaoui\\Desktop\\ecole\\temperature\\Temperature\\Api.Temperature",
+  "Api.Temperature.Tests.Common, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\hamza.belyahiaoui\\Desktop\\ecole\\temperature\\Temperature\\Tests\\Api.Temperature.Tests.Common"
+}
